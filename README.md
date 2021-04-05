@@ -1,0 +1,7 @@
+- 👋 Olá, me chamo Samuel Taira - @Mukkz
+- 🎓 Formado Tecnólogo em Sistemas para Internet na UNIVALI
+- 👀 Estou à procura de oportunidades para ingressar ao mundo da programação!
+- ✔️ PHP / Laravel; ✔️ HTML / CSS / Bootstrap 
+- 🌱 Atualmente aprimorando Javascript
+- 📫 samueltaira@hotmail.com
+- 🔍 https://www.linkedin.com/in/samuel-costa-2b508853/
