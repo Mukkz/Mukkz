@@ -3,5 +3,6 @@
 - 👀 Estou à procura de oportunidades para ingressar ao mundo da programação!
 - ✔️ PHP / Laravel; ✔️ HTML / CSS / Bootstrap 
 - 🌱 Atualmente aprimorando Javascript
+- 🌱 Atualmente aprimorando Java
 - 📫 samueltaira@hotmail.com
 - 🔍 https://www.linkedin.com/in/samuel-costa-2b508853/
