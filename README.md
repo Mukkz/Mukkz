@@ -2,7 +2,8 @@
 - 🎓 Formado Tecnólogo em Sistemas para Internet na UNIVALI (2019)
 - 👀 Estou à procura de oportunidades para ingressar ao mundo da programação!
 - ✔️ PHP | Laravel | MCV | HTML | CSS | Bootstrap 
-- 🌱 Java | Javascript (React/Node)
-- 🌱 REST API | SOLID
+- ✔️ API REST
+- 🌱 Java | Javascript (React e Node)
+- 🌱 SOLID
 - 📫 samueltaira@hotmail.com
 - 🔍 https://www.linkedin.com/in/samuel-costa-2b508853/
