@@ -3,7 +3,7 @@
 - 👀 Estou à procura de oportunidades para ingressar ao mundo da programação!
 - ✔️ PHP | Laravel | MCV | HTML | CSS | Bootstrap 
 - ✔️ API REST
-- 🌱 Java | Javascript (React e Node)
+- 🌱 Java (Spring Boot) | Javascript (React e Node)
 - 🌱 SOLID
 - 📫 samueltaira@hotmail.com
 - 🔍 https://www.linkedin.com/in/samuel-costa-2b508853/
